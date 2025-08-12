@@ -17,22 +17,20 @@ An intelligent AI-powered chatbot application with a modern React frontend and a
 
 ## 📂 Project Structure
 
-```plaintext
-ai-chatbot/
-├── backend/            # Node.js backend server code
-│   ├── server.js       # Express server with OpenAI API integration
-│   ├── package.json    # Backend dependencies and scripts
-│   └── .env            # Environment variables (API keys etc.)
-│
-├── frontend/           # React frontend application
-│   ├── src/            # React components and styles
-│   ├── public/         # Static assets
-│   ├── package.json    # Frontend dependencies and scripts
-│   └── README.md       # React app README
-│
-└── README.md           # Project overview and instructions
-
-
+      ```plaintext
+      ai-chatbot/
+      ├── backend/            # Node.js backend server code
+      │   ├── server.js       # Express server with OpenAI API integration
+      │   ├── package.json    # Backend dependencies and scripts
+      │   └── .env            # Environment variables (API keys etc.)
+      │
+      ├── frontend/           # React frontend application
+      │   ├── src/            # React components and styles
+      │   ├── public/         # Static assets
+      │   ├── package.json    # Frontend dependencies and scripts
+      │   └── README.md       # React app README
+      │
+      └── README.md           # Project overview and instructions
 ---
 
 ## ⚙️ Installation & Setup
